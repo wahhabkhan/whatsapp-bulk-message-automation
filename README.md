@@ -17,6 +17,7 @@ Works with both personalized and fixed messages.
 bash
 Copy
 Edit
+
 ├── whatsapp_automate.py       # Main automation script
 ├── whatsapp_contacts.xlsx     # Excel file with contacts
 ├── whatsapp_message.txt       # Message template
